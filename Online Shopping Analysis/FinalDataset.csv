@@ -1,0 +1,107 @@
+﻿Age;Gender;Employment;Income;Buys;Cost;Platforms;UsualPlatform;Products;CovidInfluence;Confidence
+21;Male;Student;No;3;35;"Amazon;Zalando/Asos;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted)";Amazon;Technology;Same;8
+22;Male;Student;No;4;16;"Amazon;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Other";Amazon;"Technology;Books";More;9
+21;Male;Student;No;6;84;"Amazon;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted)";Amazon;"Technology;Personal care;Home/Kitchen items;Other";More;7
+22;Male;Student;Yes;2;10;"Amazon;Other";Amazon;Other;More;10
+21;Male;Working full or part-time;Yes;3;35;Other;Other;Home/Kitchen items;Same;8
+22;Male;Student;No;2;150;"Amazon;Other";None;"Clothing/Sport Material;Technology;Books;Other";Same;9
+22;Male;Student;No;1;300;"Amazon;Aliexpress";Aliexpress;Technology;Same;7
+21;Male;Student;No;2;3;"Amazon;Aliexpress";Amazon;"Clothing/Sport Material;Technology";Less;9
+24;Male;Working full or part-time;Yes;3;600;"Amazon;Aliexpress";Amazon;"Clothing/Sport Material;Technology";More;6
+22;Female;Student;Yes;3;22;Amazon;Amazon;Clothing/Sport Material;More;6
+22;Male;Student;Yes;1;400;Other;Amazon;Clothing/Sport Material;More;6
+22;Male;Student;No;0;0;"Amazon;Aliexpress;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted)";Amazon;"Clothing/Sport Material;Technology;Books";Same;5
+21;Male;Student;No;1;18;Amazon;Amazon;"Technology;Books";More;10
+22;Female;Student;No;5;20;"Amazon;Aliexpress;Other";Amazon;"Technology;Books;Home/Kitchen items";Same;9
+21;Male;Student;No;2;30;Amazon;Amazon;Technology;More;8
+21;Male;Student;No;5;50;"Amazon;Zalando/Asos";Amazon;"Clothing/Sport Material;Technology";More;7
+21;Male;Student;No;4;70;"Amazon;Aliexpress;Other";None;"Clothing/Sport Material;Technology;Books";More;5
+24;Male;Student;No;5;20;"Amazon;Other";Amazon;"Technology;Personal care;Books";More;8
+22;Male;Student;Yes;3;350;"Amazon;Aliexpress;Zalando/Asos;Other";Other;"Clothing/Sport Material;Technology";More;6
+22;Male;Student;No;10;150;"Amazon;Aliexpress";Amazon;"Technology;Books;Home/Kitchen items";More;10
+23;Female;Student;No;7;220;"Amazon;Zalando/Asos";Amazon;"Clothing/Sport Material;Technology";More;9
+22;Male;Student;No;7;11;Amazon;Amazon;"Technology;Home/Kitchen items";Same;9
+21;Male;None of the above;No;8;175;"Amazon;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted)";Amazon;"Clothing/Sport Material;Technology;Other";Same;9
+22;Male;Student;Yes;3;15;"Amazon;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted)";Amazon;"Clothing/Sport Material;Technology";More;10
+22;Female;Student;Yes;3;22;Amazon;Amazon;Clothing/Sport Material;More;6
+21;Male;Student;No;4;12;Amazon;Amazon;Technology;More;7
+22;Male;Student;Yes;3;350;"Amazon;Aliexpress;Zalando/Asos;Other";Other;"Clothing/Sport Material;Technology";More;6
+21;Female;Student;No;2;15;"Amazon;Aliexpress";Amazon;"Clothing/Sport Material;Technology";Less;8
+24;Female;Working full or part-time;Yes;3;40;"Amazon;Aliexpress;Zalando/Asos;Other";Aliexpress;"Clothing/Sport Material;Technology;Other";Same;9
+21;Male;Student;No;10;500;"Amazon;Other";Amazon;"Home/Kitchen items;Other";More;9
+22;Female;Student;No;10;100;"Amazon;Zalando/Asos;Other";Amazon;"Clothing/Sport Material;Technology;Personal care;Books";More;7
+23;Female;Student;No;2;18;"Amazon;Aliexpress;Other";Amazon;"Clothing/Sport Material;Personal care";More;8
+19;Male;Student;No;20;15;"Amazon;Aliexpress;Zalando/Asos";Amazon;"Clothing/Sport Material;Technology";More;9
+19;Male;Student;No;5;5;Amazon;Amazon;"Clothing/Sport Material;Technology";More;3
+23;Male;Working full or part-time;Yes;10;4;"Amazon;Aliexpress;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Other";Amazon;"Technology;Books;Other";More;7
+20;Male;Student;Yes;5;60;"Amazon;Aliexpress";Aliexpress;Clothing/Sport Material;More;5
+27;Male;Working full or part-time;No;10;200;"Amazon;Other";Other;"Clothing/Sport Material;Technology;Other";Same;10
+18;Male;Student;No;1;170;"Amazon;Aliexpress";Amazon;Technology;Less;3
+30;Male;Working full or part-time;Yes;5;15;Amazon;Amazon;"Technology;Books;Other";More;8
+36;Female;Student;Yes;30;230;"Amazon;Aliexpress;Other";Aliexpress;"Clothing/Sport Material;Personal care;Home/Kitchen items";More;8
+39;Male;Working full or part-time;No;8;10;"Amazon;Aliexpress;Zalando/Asos;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Other";Amazon;Technology;More;9
+27;Male;Working full or part-time;Yes;20;36;Amazon;Amazon;Books;Same;10
+28;Male;Working full or part-time;No;20;25;"Amazon;Aliexpress;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Other";Amazon;Other;More;8
+21;Male;Student;No;2;10;Other;Amazon;Technology;More;8
+36;Female;Working full or part-time;Yes;10;300;"Amazon;Aliexpress;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted)";Amazon;Other;Less;8
+19;Male;Student;No;5;80;Zalando/Asos;Zalando/Asos;Clothing/Sport Material;More;6
+20;Male;Student;No;5;55;"Amazon;Other";Amazon;Technology;More;9
+37;Male;Working full or part-time;Yes;10;30;"Amazon;Other";Other;"Technology;Other";More;6
+31;Male;Working full or part-time;No;20;1000;"Amazon;Aliexpress;Other";Other;Technology;Less;9
+46;Female;None of the above;Yes;7;140;"Amazon;Aliexpress;Other";Other;"Clothing/Sport Material;Technology;Personal care;Home/Kitchen items";More;9
+29;Male;Working full or part-time;Yes;10;6;Amazon;Amazon;"Technology;Books;Other";More;10
+29;Male;Working full or part-time;Yes;12;30;"Amazon;Aliexpress";Amazon;"Technology;Home/Kitchen items;Other";More;9
+25;Female;None of the above;Yes;1;20;Other;Other;"Home/Kitchen items;Other";Less;9
+23;Male;Student;No;10;40;Amazon;Amazon;"Technology;Books";Same;8
+20;Male;Student;No;5;30;"Amazon;Aliexpress;Other";Other;"Technology;Books;Other";Less;9
+50;Male;Working full or part-time;Yes;10;24;"Amazon;Aliexpress;Zalando/Asos";Amazon;"Clothing/Sport Material;Technology;Home/Kitchen items";More;7
+23;Male;Student;No;5;30;Amazon;Amazon;Technology;More;9
+30;Male;Working full or part-time;Yes;5;1500;"Amazon;Other";Amazon;"Clothing/Sport Material;Technology;Home/Kitchen items";Less;9
+38;Male;None of the above;No;0;0;Other;None;Other;More;1
+21;Male;Student;Yes;5;30;"Amazon;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Other";Amazon;"Technology;Books;Other";More;9
+21;Male;Student;No;4;80;"Amazon;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Other";Amazon;"Clothing/Sport Material;Technology";Less;8
+29;Male;Working full or part-time;No;0;0;Amazon;Amazon;Technology;Less;5
+32;Male;Working full or part-time;Yes;3;60;"Amazon;Other";Amazon;"Technology;Books;Home/Kitchen items";More;10
+28;Male;Working full or part-time;Yes;6;42;"Amazon;Other";Other;"Clothing/Sport Material;Technology;Books";More;8
+31;Male;Working full or part-time;Yes;10;42;"Amazon;Aliexpress";Amazon;"Clothing/Sport Material;Technology;Personal care;Books";Less;10
+23;Male;Working full or part-time;Yes;1;9;"Amazon;Other";Other;Other;Less;7
+19;Male;Student;Yes;3;45;Amazon;Amazon;"Clothing/Sport Material;Technology;Personal care";More;10
+24;Male;Student;No;1;15;Amazon;Amazon;Other;Less;8
+26;Female;Working full or part-time;No;10;36;"Amazon;Aliexpress;Other";Other;"Clothing/Sport Material;Personal care;Other";More;7
+31;Male;Working full or part-time;No;0;0;"Amazon;Zalando/Asos";Amazon;Technology;Less;7
+27;Male;Working full or part-time;No;15;10;"Amazon;Aliexpress";Amazon;"Clothing/Sport Material;Technology;Personal care;Home/Kitchen items;Other";Same;8
+38;Male;Working full or part-time;Yes;10;32;"Amazon;Aliexpress;Zalando/Asos;Other";Amazon;"Clothing/Sport Material;Technology;Personal care;Other";Less;2
+26;Female;Working full or part-time;Yes;8;62;"Amazon;Other";Amazon;"Technology;Home/Kitchen items;Other";More;10
+26;Female;Student;Yes;5;84;"Amazon;Zalando/Asos";Amazon;"Clothing/Sport Material;Technology;Personal care";More;7
+30;Male;Student;Yes;20;20;"Amazon;Aliexpress";Aliexpress;"Technology;Personal care;Home/Kitchen items";Same;9
+34;Male;Working full or part-time;Yes;15;30;Amazon;Amazon;"Technology;Other";More;10
+26;Male;Student;No;5;10;"Amazon;Aliexpress";Amazon;"Personal care;Home/Kitchen items";Less;10
+34;Male;Working full or part-time;No;15;39;"Amazon;Aliexpress";Amazon;"Technology;Books;Other";More;9
+40;Female;Working full or part-time;Yes;10;20;"Amazon;Aliexpress";Amazon;"Clothing/Sport Material;Technology;Personal care;Books;Home/Kitchen items";More;7
+41;Female;Working full or part-time;No;6;10;"Amazon;Aliexpress;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Other";Aliexpress;"Clothing/Sport Material;Technology;Personal care;Home/Kitchen items";Same;7
+39;Male;Working full or part-time;Yes;2;58;"Amazon;Aliexpress;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Other";Other;"Clothing/Sport Material;Technology;Books";Same;7
+28;Male;Working full or part-time;Yes;10;300;"Amazon;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted)";Amazon;"Technology;Books;Other";Less;7
+25;Male;Working full or part-time;Yes;8;60;"Amazon;Other";Amazon;"Technology;Home/Kitchen items";More;8
+29;Male;Working full or part-time;No;5;15;"Amazon;Other";Amazon;Other;More;7
+19;Male;Student;No;3;100;"Amazon;Other";Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);"Technology;Other";More;10
+17;Male;Student;No;2;10;Amazon;Amazon;Technology;Same;10
+21;Male;Student;No;5;11;"Amazon;Aliexpress;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted)";Amazon;"Technology;Personal care;Other";Less;8
+27;Male;Working full or part-time;No;10;17;"Amazon;Aliexpress";Amazon;"Clothing/Sport Material;Technology";More;8
+19;Male;Student;No;5;30;"Amazon;Aliexpress;Zalando/Asos;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted)";Amazon;"Clothing/Sport Material;Technology";More;9
+20;Male;Student;No;5;30;"Amazon;Aliexpress;Zalando/Asos;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Other";Amazon;"Clothing/Sport Material;Technology;Home/Kitchen items;Other";More;9
+21;Male;Student;No;3;20;Other;Other;"Clothing/Sport Material;Technology";Same;8
+57;Female;Working full or part-time;Yes;2;100;"Amazon;Other";Other;"Clothing/Sport Material;Technology;Personal care;Books;Home/Kitchen items;Other";Same;9
+43;Female;Working full or part-time;No;14;650;"Amazon;Other";Amazon;"Technology;Home/Kitchen items;Other";Same;5
+20;Male;Student;No;10;20;"Amazon;Aliexpress";Aliexpress;Technology;More;10
+28;Female;Student;No;27;200;Amazon;Aliexpress;"Clothing/Sport Material;Technology;Books;Home/Kitchen items;Other";Same;8
+29;Male;Student;No;4;20;Amazon;Amazon;"Technology;Personal care";Same;9
+30;Male;Working full or part-time;No;3;34;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Clothing/Sport Material;Same;9
+30;Female;Working full or part-time;No;8;30;"Amazon;Aliexpress";Amazon;"Clothing/Sport Material;Technology;Personal care;Books";More;10
+26;Male;Student;No;5;50;"Amazon;Zalando/Asos";Aliexpress;"Technology;Personal care";More;1
+25;Male;Working full or part-time;Yes;7;20;"Amazon;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted)";Amazon;"Technology;Other";Less;8
+27;Male;Working full or part-time;No;5;9;"Amazon;Zalando/Asos";Amazon;Clothing/Sport Material;Same;9
+26;Male;Working full or part-time;No;11;500;"Amazon;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted);Other";Amazon;"Clothing/Sport Material;Technology;Books";Less;10
+22;Male;Student;Yes;2;30;"Amazon;Aliexpress;Zalando/Asos";Zalando/Asos;Clothing/Sport Material;More;10
+27;Male;Working full or part-time;No;5;100;"Amazon;Aliexpress";Aliexpress;"Clothing/Sport Material;Technology;Personal care";More;10
+29;Male;Student;No;2;40;"Amazon;Aliexpress;Zalando/Asos;Second-hand apps (eBay, Wish, Wallapop, Milanuncios, Vinted)";Amazon;"Clothing/Sport Material;Technology";Same;8
+18;Male;Student;No;0;0;Amazon;Amazon;Technology;Less;9
